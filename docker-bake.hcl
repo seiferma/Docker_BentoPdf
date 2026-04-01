@@ -1,6 +1,6 @@
 variable "BENTOPDF_VERSION" {
   # renovate: datasource=docker depName=bentopdfteam/bentopdf-simple versioning=loose
-  default = "2.7.0"
+  default = "2.8.1"
 }
 
 group "default" {
